@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo Daniel, tenho 23 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas, e estou em busca de um estágio na área. Possuo graduação e pós-graduação na área de nutrição, no entanto, resolvi migrar para a área de tecnologia (desenvolvimento) no início desse ano (2023).
+- 👋 Olá, me chamo Daniel, tenho 23 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas, e estou em busca de um estágio na área. Possuo graduação e pós-graduação na área de nutrição, no entanto, resolvi migrar para a área de tecnologia (desenvolvimento) no início desse ano (2023).
 
 - 👀 Tenho interesse em desenvolvimento backend, automações, entre outras coisas que vou me aventurando a aprender.
 
