@@ -1,8 +1,8 @@
-- 👋 Olá, me chamo Daniel, tenho 23 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas, e estou em busca de um estágio na área. Possuo graduação e pós-graduação na área de nutrição, no entanto, resolvi migrar para a área de tecnologia (desenvolvimento) no início desse ano (2023).
+- 👋 Olá, me chamo Daniel, tenho 23 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas, e estou em busca de um estágio na área. Possuo graduação e pós-graduação na área de nutrição, no entanto, resolvi migrar para a área de tecnologia (desenvolvimento) no início desse ano (2023). Possuo também curso técnico de informática pela FAETEC-ETESC.
 
-- 👀 Tenho interesse em desenvolvimento backend, automações, entre outras coisas que vou me aventurando a aprender.
+- 👀 Tenho interesse em desenvolvimento backend, automações, banco de dados, entre outras coisas que vou me aventurando a aprender.
 
-- 🌱 Atualmente, estou aprendendo automações com o python (pyautogui, selenium, entre outros). Além do python, tenho conhecimentos também em banco de dados SQL, Git / GitHub... E, embora não seja meu foco, já tive contato com flask e django.
+- 🌱 Atualmente, estou aprendendo e praticando automações com o python (pyautogui, selenium, scrapy, entre outros). Além do python, tenho conhecimentos também em banco de dados SQL, Git / GitHub... E, embora não seja meu foco atualmente, já tive contato com flask e django.
 
 - Fique à vontade para dar uma olhadinha nos meus repositórios.
 
