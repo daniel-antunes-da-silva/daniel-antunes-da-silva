@@ -1,6 +1,6 @@
 # Olá, sou o Daniel 👋
 
-Atualmente, estou cursando **Sistemas de Informação** e faço parte da equipe de **suporte técnico** nos cursos da **Dev Aprender**, abordando temas como **Python**, **SQL** e outros tópicos relacionados. Tenho graduação e pós-graduação em Nutrição, mas resolvi migrar para a área de **Tecnologia (Desenvolvimento)** no início de 2023. Além disso, possuo um **Curso Técnico de Informática** pela **FAETEC** (Santa Cruz - RJ).
+Atualmente, estou cursando **Sistemas de Informação** e faço parte da equipe de **suporte técnico** nos cursos da **Dev Aprender**, auxiliando alunos em temas como **Python**, **SQL** e outros tópicos relacionados. Tenho graduação e pós-graduação em Nutrição, mas resolvi migrar para a área de **Tecnologia (Desenvolvimento)** no início de 2023. Além disso, possuo um **Curso Técnico de Informática** pela **FAETEC** (Santa Cruz - RJ).
 
 Estou buscando uma oportunidade de estágio como desenvolvedor, preferencialmente na área de back-end.
 
