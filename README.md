@@ -4,7 +4,7 @@ Atualmente, estou cursando **Sistemas de Informação** e faço parte da equipe 
 
 Estou buscando uma oportunidade de estágio como desenvolvedor, preferencialmente na área de back-end.
 
-Fique à vontade para conferir meus repositórios! Alguns projetos não estão públicos aqui, como meu projeto mais recente, mas você pode conferir ele no YouTube: [assista ao projeto no YouTube](https://youtu.be/6v5oCyA6ISs)
+Fique à vontade para conferir meus repositórios!
 
 ---
 
