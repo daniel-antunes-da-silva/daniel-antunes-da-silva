@@ -6,16 +6,15 @@ Objetivo atual: estágio como desenvolvedor back-end.
 
 Fique à vontade para conferir meus repositórios!
 
----
+<br>
 
 # Competências técnicas ⬇
-
 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" width="40" alt="Python"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" alt="Postman"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"> |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | Python | Java | Git | Postman | MySQL | Linux |
 
----
+<br>
 
 # Principais Cursos na Área ⬇
 
@@ -31,7 +30,7 @@ Fique à vontade para conferir meus repositórios!
 
 * Introduction to Cybersecurity | Empresa: Cisco
 
----
+<br>
 
 # Contatos ⬇
 
