@@ -2,7 +2,7 @@
 
 Estudante de Sistemas de Informação e graduado em nutrição, atualmente em transição de carreira para a área de tecnologia, com forte dedicação em desenvolvimento back-end. Conhecimento e experiência prática com Python e Java (POO), além de atuação como instrutor e como suporte técnico a alunos em curso de programação.
 
-Objetivo atual: estágio como desenvolvedor back-end.
+Objetivo atual: atuar como desenvolvedor de software.
 
 Fique à vontade para conferir meus repositórios!
 
